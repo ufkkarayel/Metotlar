@@ -20,6 +20,7 @@ namespace DegerVeReferansTipler
              * bellekte stack ve heap alanları vardır.
              * değer tipler stackte gerçekleşir.
              * referans tipler heap'te çalışır.
+             * tüm projeler github'a atıldı
              */
             int[] sayilar1= new int[] {10,20,30};
             int[] sayilar2 = new int[] { 100, 200, 300 };
